@@ -65,15 +65,15 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-using-diagnostic-tool-while-checking-voltage-car-battery-auto-repair-shop_637285-4265.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-using-diagnostic-tool-while-checking-voltage-car-battery-auto-repair-shop_637285-4265.jpg?_wi=1",
           imageAlt: "Mobile mechanic working",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-using-diagnostic-tool-while-checking-voltage-car-battery-auto-repair-shop_637285-4265.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-using-diagnostic-tool-while-checking-voltage-car-battery-auto-repair-shop_637285-4265.jpg?_wi=2",
           imageAlt: "Mobile mechanic assistance",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-using-diagnostic-tool-while-checking-voltage-car-battery-auto-repair-shop_637285-4265.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mid-adult-mechanic-using-diagnostic-tool-while-checking-voltage-car-battery-auto-repair-shop_637285-4265.jpg?_wi=3",
           imageAlt: "24/7 recovery service",
         },
       ]}
@@ -95,7 +95,7 @@ export default function LandingPage() {
             "Emergency",
             "Available",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-checking-car-parts_1170-1338.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-checking-car-parts_1170-1338.jpg?_wi=1",
         },
         {
           id: "f2",
@@ -106,7 +106,7 @@ export default function LandingPage() {
             "Honest",
             "Pricing",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11864.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11864.jpg?_wi=1",
         },
         {
           id: "f3",
@@ -117,7 +117,7 @@ export default function LandingPage() {
             "Trusted",
             "Verified",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-servicing-car-engine_1170-1135.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-servicing-car-engine_1170-1135.jpg?_wi=1",
         },
       ]}
       title="Why Choose AK Mobile Mechanic?"
@@ -137,21 +137,21 @@ export default function LandingPage() {
           name: "Servicing & MOT Prep",
           price: "From £85",
           variant: "Popular",
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-checking-car-parts_1170-1338.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-checking-car-parts_1170-1338.jpg?_wi=2",
         },
         {
           id: "p2",
           name: "Brake & Disc Repairs",
           price: "Competitive",
           variant: "Standard",
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11864.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11864.jpg?_wi=2",
         },
         {
           id: "p3",
           name: "Breakdown & Recovery",
           price: "Contact us",
           variant: "Urgent",
-          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-servicing-car-engine_1170-1135.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/mechanic-servicing-car-engine_1170-1135.jpg?_wi=2",
         },
       ]}
       title="Our Professional Services"
